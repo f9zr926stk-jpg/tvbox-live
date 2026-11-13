@@ -23,6 +23,18 @@ DEFAULT_UPSTREAMS = [
 TIMEOUT = 7
 WORKERS = 40
 
+# 隐藏的分组：只从输出里剔除，base.m3u 中的台一条不删。
+# 想恢复某个组，把它从下面这个列表里删掉再提交即可。
+HIDE_GROUPS = [
+    "体育-昨天",
+    "体育-明天",
+    "体育赛事直播",
+    "体育-今天",
+    "中国景观直播",
+    "教育",
+    "文旅",
+]
+
 
 def fetch(url, limit=900_000):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
@@ -160,20 +172,42 @@ def main():
                     print("换源 %-14s -> %s" % (entry[1][:14], newurl[:70]), flush=True)
 
     urlmap = {id(e): e[2] for e in base_entries}
+    out = []
     idx = 0
-    for i, line in enumerate(base_lines):
-        if line.startswith("#EXTINF"):
-            if idx < len(base_entries):
-                src = base_entries[idx][2]
-                if src and i + 1 < len(base_lines):
-                    base_lines[i + 1] = src.split(";")[0].strip() if ";" in src else src
-            idx += 1
+    i = 0
+    n_keep = 0
+    while i < len(base_lines):
+        line = base_lines[i]
+        if not line.startswith("#EXTINF"):
+            out.append(line)
+            i += 1
+            continue
+        entry = base_entries[idx] if idx < len(base_entries) else None
+        idx += 1
+        keep = bool(entry) and entry[0] not in HIDE_GROUPS
+        if keep:
+            out.append(line)
+            n_keep += 1
+        has_url = (i + 1 < len(base_lines)) and not base_lines[i + 1].startswith("#")
+        if has_url:
+            url = entry[2] if entry else base_lines[i + 1]
+            if url and ";" in url:
+                url = url.split(";")[0].strip()
+            if keep:
+                out.append(url or base_lines[i + 1])
+            i += 2
+        else:
+            i += 1
 
     groups = {}
     for e in base_entries:
+        if e[0] in HIDE_GROUPS:
+            continue
         groups[e[0]] = groups.get(e[0], 0) + 1
-    open(a.out, "w", encoding="utf-8", newline="").write(nl.join(base_lines))
-    print("输出 %s：%d 条，换源 %d 条" % (a.out, len(base_entries), replaced), flush=True)
+    open(a.out, "w", encoding="utf-8", newline="").write(nl.join(out))
+    print("输出 %s：%d 条（骨架 %d，隐藏 %d），换源 %d 条"
+          % (a.out, n_keep, len(base_entries), len(base_entries) - n_keep, replaced), flush=True)
+    print("隐藏分组: " + ("、".join(HIDE_GROUPS) if HIDE_GROUPS else "无"), flush=True)
     print("分组: " + " / ".join("%s=%d" % (k, v) for k, v in groups.items()), flush=True)
 
 
