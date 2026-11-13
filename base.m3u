@@ -1705,6 +1705,18 @@ http://38.64.72.148/hls/modn/list/2016/chunklist1.m3u8
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-name="緯來精采" group-title="港澳台",緯來精采
 http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 tvg-name="八大" group-title="港澳台",八大
+http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
+#EXTINF:-1 tvg-name="三立台灣台" group-title="港澳台",三立台灣台
+http://111.180.199.137:9895/php/twjd678-2.php?id=11
+#EXTINF:-1 tvg-name="美亞電影" group-title="港澳台",美亞電影
+http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+#EXTINF:-1 tvg-name="東風衛視" group-title="港澳台",東風衛視
+http://111.180.199.137:9895/php/twjd678-1.php?id=27
+#EXTINF:-1 tvg-name="星空衛視" group-title="港澳台",星空衛視
+http://qwas.eatuo.com:9901/tsfile/live/1080_1.m3u8
+#EXTINF:-1 tvg-name="天映频道" group-title="港澳台",天映频道
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-id="建党105周年巡礼" tvg-name="建党105周年巡礼" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/27362f5403f1dc570251.webp?v=1794236583950&from=source" group-title="影视",建党105周年巡礼
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/713600957
 #EXTINF:-1 tvg-id="经典香港电影" tvg-name="经典香港电影" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/ea5a3301a515b1a19905.webp?v=1794236583950&from=source" group-title="影视",经典香港电影
