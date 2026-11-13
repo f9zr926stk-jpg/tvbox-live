@@ -79,6 +79,8 @@ https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/ysp-cgtney.m3u8
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/ysp-cgtnxby.m3u8
 #EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/87d60d82ddff43c3b57d.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",CGTN阿拉伯语
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/ysp-cgtnalby.m3u8
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/0579ea81c278fb33897b.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",CETV1
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/ysp-cetv1.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/28d7357ca8b7ac969f85.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",北京卫视
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/bestv-fj-196.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/6fc630f60798249ef3c4.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",东方卫视
@@ -121,6 +123,48 @@ https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/ysp-gzhws.m3u8
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/bestv-fj-200.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/a2d768e7202e3c0695db.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",东南卫视
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/bestv-fj-155.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/71642ce229b22ecf589b.jpg?v=1794448757859&from=source" group-title="卫视直播1080P",辽宁卫视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/liaoning-c077b260424404846285cba1e1759280.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/08016064add95a9199ce.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",甘肃卫视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gansu-1.m3u8
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/dd24fe9b6d7523216313.png?v=1794236583950&from=source" group-title="卫视直播1080P",大湾区卫视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-51.m3u8
+#EXTINF:-1 tvg-id="大湾区卫视（海外版）" tvg-name="大湾区卫视（海外版）" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/c55e87d9c544064cab69.png?v=1794236583950&from=source" group-title="卫视直播1080P",大湾区卫视（海外版）
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-46.m3u8
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/cd3c419e7ca8d1d8b576.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",海峡卫视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/fjtv-province-665248523855695872.m3u8
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/bbcfd6cf91138802c3e6.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",吉林卫视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jlntv-satellite.m3u8
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/52cf9dc1bdd61db8448f.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",延边卫视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jlntv-yanbian.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/3163cd8602cfef303253.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",江西卫视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jxntv-satellite.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/80b73f62d20b8f743b48.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",黑龙江卫视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/heilongjiang-hljws_own.m3u8
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/e7f2831287a0bb7a6881.png?v=1794236583950&from=source" group-title="卫视直播1080P",海南卫视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hnntv-13
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/92b34d4583ade2ca7325.png?v=1794236583950&from=source" group-title="卫视直播1080P",三沙卫视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hnntv-5
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/ab5fd75b23c1209694c6.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",内蒙古卫视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/nmtv-satellite.m3u8
+#EXTINF:-1 tvg-id="内蒙古蒙古语卫视" tvg-name="内蒙古蒙古语卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/d0dab72595036d8aadbf.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",内蒙古蒙古语卫视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/nmtv-mongolian-satellite.m3u8
+#EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/aedd738029c23bd48c90.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",农林卫视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/shaanxi-nonglin.m3u8
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-pack/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png?v=55e8aec4f1" catchup="none" group-title="卫视直播1080P",青海卫视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/qinghai-qhws.m3u8
+#EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/5b4667507f32a2d2fbe4.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",安多卫视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/qinghai-amdo.m3u8
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-pack/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png?v=59f2f72118" catchup="none" group-title="卫视直播1080P",宁夏卫视
+https://hls.nxhhy.cn/live/nxws1M.m3u8
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/bc8bd70209a65f39d96e.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",新疆卫视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/xjtv-1.m3u8
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/f28aabbd4d342e023c53.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",西藏卫视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/xizang-satellite.m3u8
+#EXTINF:-1 tvg-id="西藏藏语卫视" tvg-name="西藏藏语卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/0e9687b7cf0b329493ae.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",西藏藏语卫视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/xizang-tibetan.m3u8
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/60e15e07cc0ad9014acc.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",兵团卫视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/bestv-fj-215.m3u8
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b6413fb5039b7a6704fe.webp?v=1794236583950&from=source" group-title="卫视直播1080P",财富天下
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/956923159
 #EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/e2039bc75ebcee90ef1e.png?v=1794236583950&from=source" group-title="卫视直播1080P",江苏城市
@@ -139,6 +183,328 @@ https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jstv-665.m3u8
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jstv-667.m3u8
 #EXTINF:-1 tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/eb5aa9aa8d3969dc6371.png?v=1794236583950&from=source" group-title="卫视直播1080P",江苏国际
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jstv-671.m3u8
+#EXTINF:-1 tvg-id="安徽经济生活" tvg-name="安徽经济生活" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/de6f77136172f07be05f.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",安徽经济生活
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/anhui-jjshtv.m3u8
+#EXTINF:-1 tvg-id="安徽影视" tvg-name="安徽影视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b9835d20bfc4a2136024.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",安徽影视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/anhui-ystv.m3u8
+#EXTINF:-1 tvg-id="安徽公共" tvg-name="安徽公共" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/5edfa3111cbf5d24a436.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",安徽公共
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/anhui-ggtv.m3u8
+#EXTINF:-1 tvg-id="安徽农业科教" tvg-name="安徽农业科教" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/317ffc32a80441365c31.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",安徽农业科教
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/anhui-nykjtv.m3u8
+#EXTINF:-1 tvg-id="安徽综艺体育" tvg-name="安徽综艺体育" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/ca26ab53a4d70b7b7aa1.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",安徽综艺体育
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/anhui-zytytv.m3u8
+#EXTINF:-1 tvg-id="安徽国际" tvg-name="安徽国际" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/6eb07c8eccf5be0488a4.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",安徽国际
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/anhui-gjtv.m3u8
+#EXTINF:-1 tvg-id="CQTV新闻" tvg-name="CQTV新闻" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/3628e27ccafd22199cd0.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",CQTV新闻
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/chongqing-6.m3u8
+#EXTINF:-1 tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/a0e4c07403eccc043c01.jpg?v=1794448757859&from=source" group-title="卫视直播1080P",辽宁影视剧
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/liaoning-918510749a0f319ec12ff695b1c95230.m3u8
+#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/d20982fa32498971bf7f.jpg?v=1794448757859&from=source" group-title="卫视直播1080P",家庭理财
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/liaoning-7e29bde4f41ca08642b7fc3ce4eb1ae4.m3u8
+#EXTINF:-1 tvg-id="甘肃文化影视" tvg-name="甘肃文化影视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/6678cc2568f5706bc593.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",甘肃文化影视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gansu-2.m3u8
+#EXTINF:-1 tvg-id="甘肃移动电视" tvg-name="甘肃移动电视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/91eaafadeac175204a59.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",甘肃移动电视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gansu-3.m3u8
+#EXTINF:-1 tvg-id="甘肃少儿" tvg-name="甘肃少儿" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/c956889007383ad8866e.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",甘肃少儿
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gansu-4.m3u8
+#EXTINF:-1 tvg-id="甘肃科教" tvg-name="甘肃科教" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/f00e7c359e1237cf6595.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",甘肃科教
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gansu-5.m3u8
+#EXTINF:-1 tvg-id="甘肃公共应急" tvg-name="甘肃公共应急" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/869d95ae0942a78091ca.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",甘肃公共应急
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gansu-6.m3u8
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/1c20e6e43d54eacc6b52.png?v=1794236583950&from=source" group-title="卫视直播1080P",广东珠江
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-44.m3u8
+#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/1a5d001f0972083b0f59.png?v=1794236583950&from=source" group-title="卫视直播1080P",广东新闻
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-45.m3u8
+#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/41bb2848393cf91a6e3a.png?v=1794236583950&from=source" group-title="卫视直播1080P",广东民生
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-48.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/a68968a4a253f818c44b.png?v=1794236583950&from=source" group-title="卫视直播1080P",广东体育
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-47.m3u8
+#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/dd4b237ddea81be3e751.png?v=1794236583950&from=source" group-title="卫视直播1080P",广东影视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-53.m3u8
+#EXTINF:-1 tvg-id="广东4K超高清" tvg-name="广东4K超高清" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/92448755af125a0fd20f.png?v=1794236583950&from=source" group-title="卫视直播1080P",广东4K超高清
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-16.m3u8
+#EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/75745d33babd0852cd74.png?v=1794236583950&from=source" group-title="卫视直播1080P",广东少儿
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-54.m3u8
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/86bb77df5146798f151f.png?v=1794236583950&from=source" group-title="卫视直播1080P",嘉佳卡通
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-66.m3u8
+#EXTINF:-1 tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-pack/%E5%B2%AD%E5%8D%97%E6%88%8F%E6%9B%B2.png?v=c65da6602b" group-title="卫视直播1080P",岭南戏曲
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-15.m3u8
+#EXTINF:-1 tvg-id="广东台经典剧" tvg-name="广东台经典剧" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/8daf54aab0a49d4143f1.png?v=1794236583950&from=source" group-title="卫视直播1080P",广东台经典剧
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-100.m3u8
+#EXTINF:-1 tvg-id="广东纪录片" tvg-name="广东纪录片" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/fedc071a01ba02f86142.png?v=1794236583950&from=source" group-title="卫视直播1080P",广东纪录片
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-94.m3u8
+#EXTINF:-1 tvg-id="广东健康" tvg-name="广东健康" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/751cece068d25a6817df.png?v=1794236583950&from=source" group-title="卫视直播1080P",广东健康
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-99.m3u8
+#EXTINF:-1 tvg-id="GRTN生活" tvg-name="GRTN生活" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/f86f4f256d872f9ac63c.png?v=1794236583950&from=source" group-title="卫视直播1080P",GRTN生活
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-102.m3u8
+#EXTINF:-1 tvg-id="贵州公共" tvg-name="贵州公共" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/5d6c3c2e3d150a2aab57.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",贵州公共
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gzstv-public.m3u8
+#EXTINF:-1 tvg-id="贵州影视文艺" tvg-name="贵州影视文艺" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/dab3de6aed27d1beb193.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",贵州影视文艺
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gzstv-film-arts.m3u8
+#EXTINF:-1 tvg-id="贵州大众生活" tvg-name="贵州大众生活" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/bf9748621442157d2a9e.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",贵州大众生活
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gzstv-life.m3u8
+#EXTINF:-1 tvg-id="贵州生态乡村" tvg-name="贵州生态乡村" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/6974c96676d03190ba75.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",贵州生态乡村
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gzstv-eco-rural.m3u8
+#EXTINF:-1 tvg-id="贵州科教健康" tvg-name="贵州科教健康" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/4dc2642ec665fb36b722.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",贵州科教健康
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gzstv-science-health.m3u8
+#EXTINF:-1 tvg-id="贵州经济" tvg-name="贵州经济" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/0950e7ccbec673cca7b7.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",贵州经济
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gzstv-economy.m3u8
+#EXTINF:-1 tvg-id="贵州移动电视" tvg-name="贵州移动电视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/8f5362c517436ce1f15d.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",贵州移动电视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gzstv-mobile.m3u8
+#EXTINF:-1 tvg-id="广西综艺旅游" tvg-name="广西综艺旅游" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/abb3fd22502207b54c2f.png?v=1794236583950&from=source" group-title="卫视直播1080P",广西综艺旅游
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gxtv-zyly.m3u8
+#EXTINF:-1 tvg-id="广西都市" tvg-name="广西都市" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/62447228101ab1971183.png?v=1794236583950&from=source" group-title="卫视直播1080P",广西都市
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gxtv-ds.m3u8
+#EXTINF:-1 tvg-id="广西影视" tvg-name="广西影视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/eee07facd914746271ee.png?v=1794236583950&from=source" group-title="卫视直播1080P",广西影视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gxtv-ys.m3u8
+#EXTINF:-1 tvg-id="广西新闻" tvg-name="广西新闻" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/de3c32747f0982cc59fe.png?v=1794236583950&from=source" group-title="卫视直播1080P",广西新闻
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gxtv-xw.m3u8
+#EXTINF:-1 tvg-id="广西国际" tvg-name="广西国际" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/a318b3ab3d5e6cc64973.png?v=1794236583950&from=source" group-title="卫视直播1080P",广西国际
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gxtv-gj.m3u8
+#EXTINF:-1 tvg-id="广西移动" tvg-name="广西移动" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/7133baa02a56619234a2.png?v=1794236583950&from=source" group-title="卫视直播1080P",广西移动
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gxtv-yd.m3u8
+#EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/a27ade8c26c175f38c5e.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",福建综合
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/fjtv-province-665248990102917120.m3u8
+#EXTINF:-1 tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/05a6cd5dc426f165dfe8.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",福建新闻
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/fjtv-province-665248914378952704.m3u8
+#EXTINF:-1 tvg-id="福建文旅体育" tvg-name="福建文旅体育" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/335059e07f510b82b075.png?v=1794236583950&from=source" group-title="卫视直播1080P",福建文旅体育
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/fjtv-province-665248752898248704.m3u8
+#EXTINF:-1 tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/dff2559053d03bbe5c0b.png?v=1794236583950&from=source" group-title="卫视直播1080P",福建少儿
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/fjtv-province-665248553475870720.m3u8
+#EXTINF:-1 tvg-id="吉林都市" tvg-name="吉林都市" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/21cfdd6f1eb99b71e83f.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",吉林都市
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jlntv-city.m3u8
+#EXTINF:-1 tvg-id="吉林生活" tvg-name="吉林生活" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/d4dd63c78236e01e4ab7.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",吉林生活
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jlntv-life.m3u8
+#EXTINF:-1 tvg-id="吉林影视" tvg-name="吉林影视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/5ec6d185831185f32460.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",吉林影视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jlntv-movies.m3u8
+#EXTINF:-1 tvg-id="吉林乡村" tvg-name="吉林乡村" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/4abedb137ba101cc285a.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",吉林乡村
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jlntv-rural.m3u8
+#EXTINF:-1 tvg-id="吉林综艺文化" tvg-name="吉林综艺文化" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/8d08932065ac87e5c954.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",吉林综艺文化
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jlntv-variety-culture.m3u8
+#EXTINF:-1 tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/d35557170ca2eaaea048.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",江西都市
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jxntv-city.m3u8
+#EXTINF:-1 tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/f0bfbce0dc35f02f7109.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",江西经济生活
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jxntv-economy-life.m3u8
+#EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b1bd6900987d8423c87b.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",江西公共农业
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jxntv-public-agriculture.m3u8
+#EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b6e1a63b7a4ac885e59a.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",江西少儿
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jxntv-kids.m3u8
+#EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/d8423cfe0c3b9a72b68d.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",江西新闻
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jxntv-news.m3u8
+#EXTINF:-1 tvg-id="江西移动电视" tvg-name="江西移动电视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/ca5126a41ad9c96fd4d8.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",江西移动电视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jxntv-mobile.m3u8
+#EXTINF:-1 tvg-id="江西陶瓷" tvg-name="江西陶瓷" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/97a23f6d60b5f6851daf.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",江西陶瓷
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jxntv-ceramics.m3u8
+#EXTINF:-1 tvg-id="河北经济生活" tvg-name="河北经济生活" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b8066eb66aa36e27b84a.png?v=1794236583950&from=source" group-title="卫视直播1080P",河北经济生活
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/hebtv-10516507.m3u8
+#EXTINF:-1 tvg-id="河北都市" tvg-name="河北都市" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b8066eb66aa36e27b84a.png?v=1794236583950&from=source" group-title="卫视直播1080P",河北都市
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/hebtv-10516509.m3u8
+#EXTINF:-1 tvg-id="河北文旅体育" tvg-name="河北文旅体育" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b8066eb66aa36e27b84a.png?v=1794236583950&from=source" group-title="卫视直播1080P",河北文旅体育
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/hebtv-10516510.m3u8
+#EXTINF:-1 tvg-id="河北少儿科教" tvg-name="河北少儿科教" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b8066eb66aa36e27b84a.png?v=1794236583950&from=source" group-title="卫视直播1080P",河北少儿科教
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/hebtv-10516511.m3u8
+#EXTINF:-1 tvg-id="河北三农" tvg-name="河北三农" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b8066eb66aa36e27b84a.png?v=1794236583950&from=source" group-title="卫视直播1080P",河北三农
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/hebtv-10516508.m3u8
+#EXTINF:-1 tvg-id="湖北经视" tvg-name="湖北经视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/2c99054702b0f5971506.png?v=1794236583950&from=source" group-title="卫视直播1080P",湖北经视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/hbtv-432.m3u8
+#EXTINF:-1 tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/5408643f879ad5c8e383.png?v=1794236583950&from=source" group-title="卫视直播1080P",湖北综合
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/hbtv-433.m3u8
+#EXTINF:-1 tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b3484865a07e6a1b6fac.png?v=1794236583950&from=source" group-title="卫视直播1080P",湖北影视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/hbtv-435.m3u8
+#EXTINF:-1 tvg-id="湖北教育" tvg-name="湖北教育" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/86197821e3ee2fa09c32.png?v=1794236583950&from=source" group-title="卫视直播1080P",湖北教育
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/hbtv-437.m3u8
+#EXTINF:-1 tvg-id="湖北垄上" tvg-name="湖北垄上" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/33cb6a51d2ba59598e68.png?v=1794236583950&from=source" group-title="卫视直播1080P",湖北垄上
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/hbtv-438.m3u8
+#EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/4dd3a743f91fc4bf866c.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",黑龙江都市
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/heilongjiang-dushi_hd.m3u8
+#EXTINF:-1 tvg-id="黑龙江新闻法治" tvg-name="黑龙江新闻法治" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b77af8603f21dcb8b2b6.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",黑龙江新闻法治
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/heilongjiang-hljxw_hd.m3u8
+#EXTINF:-1 tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b1d7caaeabd8da7ba29c.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",黑龙江文体
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/heilongjiang-hljwy_hd.m3u8
+#EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/9cadaf8ab046134b7e6f.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",黑龙江少儿
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/heilongjiang-hljse_hd.m3u8
+#EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/a485781d2f9fca8cc63c.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",黑龙江影视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/heilongjiang-hljys_hd.m3u8
+#EXTINF:-1 tvg-id="黑龙江农业科教" tvg-name="黑龙江农业科教" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/6a9251919b2e57b4464d.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",黑龙江农业科教
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/heilongjiang-hljgg_hd.m3u8
+#EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/0dc3c53411917e1ebf58.png?v=1794236583950&from=source" group-title="卫视直播1080P",海南自贸
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hnntv-1
+#EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/fe9aa3639a36b20e3eea.png?v=1794236583950&from=source" group-title="卫视直播1080P",海南新闻
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hnntv-3
+#EXTINF:-1 tvg-id="海南社会与法" tvg-name="海南社会与法" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/e8cde202647d2b00e88b.png?v=1794236583950&from=source" group-title="卫视直播1080P",海南社会与法
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hnntv-4
+#EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/eaeb023572e989249186.png?v=1794236583950&from=source" group-title="卫视直播1080P",海南文旅
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hnntv-6
+#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/7df8d145b86f0ae47be5.png?v=1794236583950&from=source" group-title="卫视直播1080P",海南少儿
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hnntv-7
+#EXTINF:-1 tvg-id="河南新闻" tvg-name="河南新闻" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/2aab62b758c7667a4fb9.png?v=1794236583950&from=source" group-title="卫视直播1080P",河南新闻
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hntv-149
+#EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/18c6d3166554076dce14.png?v=1794236583950&from=source" group-title="卫视直播1080P",河南都市
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hntv-141
+#EXTINF:-1 tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/20b3a7fdd82bb8f03a3b.png?v=1794236583950&from=source" group-title="卫视直播1080P",河南民生
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hntv-146
+#EXTINF:-1 tvg-id="河南法治" tvg-name="河南法治" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/6b9c4720440fc472f63d.png?v=1794236583950&from=source" group-title="卫视直播1080P",河南法治
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hntv-147
+#EXTINF:-1 tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/79542f9bf3f0cc3d4879.png?v=1794236583950&from=source" group-title="卫视直播1080P",河南公共
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hntv-151
+#EXTINF:-1 tvg-id="河南乡村" tvg-name="河南乡村" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/ab4f638ff0e0adb38395.png?v=1794236583950&from=source" group-title="卫视直播1080P",河南乡村
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hntv-152
+#EXTINF:-1 tvg-id="河南电视剧" tvg-name="河南电视剧" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/de9c81c063e5b707cebe.png?v=1794236583950&from=source" group-title="卫视直播1080P",河南电视剧
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hntv-148
+#EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/ecf57014b258a26fac4c.png?v=1794236583950&from=source" group-title="卫视直播1080P",梨园频道
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hntv-154
+#EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/d1c64b6e383fb681525e.png?v=1794236583950&from=source" group-title="卫视直播1080P",文物宝库
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hntv-155
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/352d90e8a147e8d38d73.png?v=1794236583950&from=source" group-title="卫视直播1080P",武术世界
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hntv-156
+#EXTINF:-1 tvg-id="国学频道" tvg-name="国学频道" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/3bf58650e7a17c502b8c.png?v=1794236583950&from=source" group-title="卫视直播1080P",国学频道
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hntv-194
+#EXTINF:-1 tvg-id="钱江都市" tvg-name="钱江都市" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/0b060483a003ad8d8589.png?v=1794236583950&from=source" group-title="卫视直播1080P",钱江都市
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/cztv-102.m3u8
+#EXTINF:-1 tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/db37a8cf04bb9ab041a4.png?v=1794236583950&from=source" group-title="卫视直播1080P",浙江经济生活
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/cztv-103.m3u8
+#EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/3260ce9482525dad36a0.png?v=1794236583950&from=source" group-title="卫视直播1080P",浙江教科影视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/cztv-104.m3u8
+#EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/c6bdd4f389141e5ae8ff.png?v=1794236583950&from=source" group-title="卫视直播1080P",浙江民生休闲
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/cztv-106.m3u8
+#EXTINF:-1 tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/7d4f776ba7231f5cb1b8.png?v=1794236583950&from=source" group-title="卫视直播1080P",浙江新闻
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/cztv-107.m3u8
+#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/cdba2f70676972864fe8.png?v=1794236583950&from=source" group-title="卫视直播1080P",浙江少儿
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/cztv-108.m3u8
+#EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/316802d2c1e8a3548b1f.png?v=1794236583950&from=source" group-title="卫视直播1080P",浙江国际
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/cztv-110.m3u8
+#EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/07b4e7a986ba354e3af6.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",之江纪录
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/cztv-112.m3u8
+#EXTINF:-1 tvg-id="西湖明珠" tvg-name="西湖明珠" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/267f5a81e9365b4f56e8.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",西湖明珠
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/hangzhou-pearl.m3u8
+#EXTINF:-1 tvg-id="齐鲁频道" tvg-name="齐鲁频道" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/f29cbd6c0fa313da1c61.png?v=1794236583950&from=source" group-title="卫视直播1080P",齐鲁频道
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/iqilu-qlpd
+#EXTINF:-1 tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/527b8f32a6623e7ea995.png?v=1794236583950&from=source" group-title="卫视直播1080P",山东新闻
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/iqilu-ggpd
+#EXTINF:-1 tvg-id="山东体育休闲" tvg-name="山东体育休闲" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/d8a16b51b2eb8ac59d45.png?v=1794236583950&from=source" group-title="卫视直播1080P",山东体育休闲
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/iqilu-typd
+#EXTINF:-1 tvg-id="山东生活" tvg-name="山东生活" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/7cb16dc5cacbf0138876.png?v=1794236583950&from=source" group-title="卫视直播1080P",山东生活
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/iqilu-shpd
+#EXTINF:-1 tvg-id="山东综艺" tvg-name="山东综艺" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/3589f447cec45f7556f6.png?v=1794236583950&from=source" group-title="卫视直播1080P",山东综艺
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/iqilu-zypd
+#EXTINF:-1 tvg-id="山东农科" tvg-name="山东农科" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/8bc01d0782f985da9121.png?v=1794236583950&from=source" group-title="卫视直播1080P",山东农科
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/iqilu-nkpd
+#EXTINF:-1 tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/65a4d6017c0bbd651807.png?v=1794236583950&from=source" group-title="卫视直播1080P",山东文旅
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/iqilu-yspd
+#EXTINF:-1 tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/cfec6bcf4b8dba4be9de.png?v=1794236583950&from=source" group-title="卫视直播1080P",山东少儿
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/iqilu-sepd
+#EXTINF:-1 tvg-id="泰山频道" tvg-name="泰山频道" tvg-logo="" catchup="none" group-title="卫视直播1080P",泰山频道
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/sdcounty-263-1
+#EXTINF:-1 tvg-id="内蒙古新闻综合" tvg-name="内蒙古新闻综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/dd62e3834590987ed086.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",内蒙古新闻综合
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/nmtv-news-general.m3u8
+#EXTINF:-1 tvg-id="内蒙古经济生活" tvg-name="内蒙古经济生活" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/4a1134b47fc911b2299c.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",内蒙古经济生活
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/nmtv-economy-life.m3u8
+#EXTINF:-1 tvg-id="内蒙古少儿" tvg-name="内蒙古少儿" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/1703c66264bc93861341.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",内蒙古少儿
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/nmtv-kids.m3u8
+#EXTINF:-1 tvg-id="内蒙古文体娱乐" tvg-name="内蒙古文体娱乐" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/303bc059077d42ed7ca9.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",内蒙古文体娱乐
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/nmtv-culture-sports.m3u8
+#EXTINF:-1 tvg-id="内蒙古农牧" tvg-name="内蒙古农牧" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/7d7a4284bb9433567510.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",内蒙古农牧
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/nmtv-agriculture.m3u8
+#EXTINF:-1 tvg-id="内蒙古蒙古语文化频道" tvg-name="内蒙古蒙古语文化频道" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/07cefeb03e5bd25bafaa.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",内蒙古蒙古语文化频道
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/nmtv-mongolian-culture.m3u8
+#EXTINF:-1 tvg-id="黄河电视台" tvg-name="黄河电视台" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/d5c18260d83d3c165e73.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",黄河电视台
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/shanxi-huanghe.m3u8
+#EXTINF:-1 tvg-id="山西经济与科技" tvg-name="山西经济与科技" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/7fb8f2cc43cd52444dac.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",山西经济与科技
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/shanxi-economy-tech.m3u8
+#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/d1d82cfa72e7f48412e4.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",山西影视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/shanxi-film.m3u8
+#EXTINF:-1 tvg-id="山西社会与法治" tvg-name="山西社会与法治" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/0007b79c4018e96ae436.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",山西社会与法治
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/shanxi-society-law.m3u8
+#EXTINF:-1 tvg-id="山西文体生活" tvg-name="山西文体生活" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/aaf9bf195aa487f7bb42.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",山西文体生活
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/shanxi-culture-sports-life.m3u8
+#EXTINF:-1 tvg-id="陕西新闻资讯频道" tvg-name="陕西新闻资讯频道" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/27aaf6611c6e2738b791.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",陕西新闻资讯频道
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/shaanxi-news.m3u8
+#EXTINF:-1 tvg-id="陕西都市青春频道" tvg-name="陕西都市青春频道" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/6823d6d6b7bfcffb3b49.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",陕西都市青春频道
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/shaanxi-urban-youth.m3u8
+#EXTINF:-1 tvg-id="陕西银龄频道" tvg-name="陕西银龄频道" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/a8bd5afad7f898781c85.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",陕西银龄频道
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/shaanxi-silver-age.m3u8
+#EXTINF:-1 tvg-id="陕西秦腔频道" tvg-name="陕西秦腔频道" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/8533bcef42f6c92ce05a.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",陕西秦腔频道
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/shaanxi-qinqiang.m3u8
+#EXTINF:-1 tvg-id="陕西体育休闲频道" tvg-name="陕西体育休闲频道" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/f7783adf5aedee7ae888.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",陕西体育休闲频道
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/shaanxi-sports-leisure.m3u8
+#EXTINF:-1 tvg-id="陕西移动电视" tvg-name="陕西移动电视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/7532a1c35e71c5b5abba.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",陕西移动电视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/shaanxi-mobile.m3u8
+#EXTINF:-1 tvg-id="天津新闻" tvg-name="天津新闻" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/637667a61605624f85df.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",天津新闻
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/tianjin-news.m3u8
+#EXTINF:-1 tvg-id="天津文艺" tvg-name="天津文艺" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/f7afd8ef36de1cc80d8e.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",天津文艺
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/tianjin-arts.m3u8
+#EXTINF:-1 tvg-id="天津影视" tvg-name="天津影视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/60a2088df21a730f6c7d.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",天津影视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/tianjin-film.m3u8
+#EXTINF:-1 tvg-id="天津都市" tvg-name="天津都市" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/c87bb271dc21e618d21d.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",天津都市
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/tianjin-city.m3u8
+#EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/355dde394b85b8b03e40.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",天津体育
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/tianjin-sports.m3u8
+#EXTINF:-1 tvg-id="天津教育" tvg-name="天津教育" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/85bde19fc110ec138a4a.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",天津教育
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/tianjin-education.m3u8
+#EXTINF:-1 tvg-id="青海经济生活" tvg-name="青海经济生活" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-pack/%E9%9D%92%E6%B5%B7%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB.png?v=b9476cdd92" catchup="none" group-title="卫视直播1080P",青海经济生活
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/qinghai-qhsh.m3u8
+#EXTINF:-1 tvg-id="青海都市" tvg-name="青海都市" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-pack/%E9%9D%92%E6%B5%B7%E9%83%BD%E5%B8%82.png?v=a1815121a2" catchup="none" group-title="卫视直播1080P",青海都市
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/qinghai-qhds.m3u8
+#EXTINF:-1 tvg-id="宁夏公共" tvg-name="宁夏公共" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-pack/%E5%AE%81%E5%A4%8F%E5%85%AC%E5%85%B1.png?v=47f5617fc2" catchup="none" group-title="卫视直播1080P",宁夏公共
+https://hls.nxhhy.cn/live/nxgg1M.m3u8
+#EXTINF:-1 tvg-id="宁夏文旅" tvg-name="宁夏文旅" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-pack/%E5%AE%81%E5%A4%8F%E6%96%87%E6%97%85.png?v=7b887a2d8d" catchup="none" group-title="卫视直播1080P",宁夏文旅
+https://hls.nxhhy.cn/live/nxwl1M.m3u8
+#EXTINF:-1 tvg-id="新疆汉语综艺" tvg-name="新疆汉语综艺" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/993c93e57cef8b2465a9.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",新疆汉语综艺
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/xjtv-4.m3u8
+#EXTINF:-1 tvg-id="新疆体育健康" tvg-name="新疆体育健康" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/fc22ad1c46315acbc6dd.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",新疆体育健康
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/xjtv-7.m3u8
+#EXTINF:-1 tvg-id="新疆少儿" tvg-name="新疆少儿" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/4bf9190b1e44c9712da7.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",新疆少儿
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/xjtv-8.m3u8
+#EXTINF:-1 tvg-id="西藏影视文化" tvg-name="西藏影视文化" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/0ffbe9794fdc71a2f38d.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",西藏影视文化
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/xizang-film-culture.m3u8
+#EXTINF:-1 tvg-id="云南都市" tvg-name="云南都市" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b0e32e80280113344283.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",云南都市
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/yunnan-urban.m3u8
+#EXTINF:-1 tvg-id="云南康旅" tvg-name="云南康旅" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/e7197b1951c90ec11713.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",云南康旅
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/yunnan-travel.m3u8
+#EXTINF:-1 tvg-id="澜湄国际" tvg-name="澜湄国际" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-pack/%E6%BE%9C%E6%B9%84%E5%9B%BD%E9%99%85.png?v=c9ca786679" catchup="none" group-title="卫视直播1080P",澜湄国际
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/yunnan-lancang.m3u8
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/c5e3bc7a49fd62f48975.png?v=1794236583950&from=source" group-title="卫视直播1080P",上海新闻综合
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/kankanews-2.m3u8
+#EXTINF:-1 tvg-id="魔都眼" tvg-name="魔都眼" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/259556d0e15362653dc8.png?v=1794236583950&from=source" group-title="卫视直播1080P",魔都眼
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/kankanews-11.m3u8
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/ac779cc00833c4cb8a22.png?v=1794236583950&from=source" group-title="卫视直播1080P",第一财经
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/kankanews-5.m3u8
+#EXTINF:-1 tvg-id="新纪实" tvg-name="新纪实" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/a7f8a1f5ae015a0a4e9e.png?v=1794236583950&from=source" group-title="卫视直播1080P",新纪实
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/kankanews-12.m3u8
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/f41c08724785acf0e7f3.png?v=1794236583950&from=source" group-title="卫视直播1080P",五星体育
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/kankanews-10.m3u8
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/d809bff3bc80f6d920d1.png?v=1794236583950&from=source" group-title="卫视直播1080P",上海都市
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/kankanews-4.m3u8
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/0d73db99a2219ebe43a4.png?v=1794236583950&from=source" group-title="卫视直播1080P",哈哈炫动
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/kankanews-9.m3u8
+#EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/8cdb9dc6af101d2ad2cc.webp?v=1794236583950&from=source" group-title="卫视直播1080P",上视东方影视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/617290047
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/4951bad78718aa688cdd.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",金鹰卡通
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/mgtv-287.m3u8
+#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/488112d00dd4e257c914.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",湖南经视
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/mgtv-280.m3u8
+#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/490ad5e5b1f937bfac22.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",湖南娱乐
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/mgtv-344.m3u8
+#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/ec020978bb2a35415d05.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",湖南电影
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/mgtv-221.m3u8
+#EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/a88dd938191a0f71786e.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",湖南都市
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/mgtv-346.m3u8
+#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/0537aee9330612d7e2ab.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",湖南电视剧
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/mgtv-484.m3u8
+#EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/40345bc8995486460073.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",湖南爱晚
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/mgtv-261.m3u8
+#EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/99e84e0e6c8b6cc1a627.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",湖南国际
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/mgtv-229.m3u8
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-pack/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93.png?v=483e238c9d" group-title="卫视直播1080P",快乐垂钓
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/mgtv-218.m3u8
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/8810ba799d0daee50a2c.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",卡酷少儿
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/bestv-fj-209.m3u8
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/8405f865c69608b7e2d2.jpg?v=1794044505637&from=source" catchup="none" group-title="卫视直播1080P",都市剧场
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/bestv-fj-220.m3u8
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/7c7d5abc4408cc5906cf.png?v=1794044505637&from=source" catchup="none" group-title="卫视直播1080P",东方财经
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/bestv-fj-227.m3u8
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/921dd122d8a5c893dad1.png?v=1794044505637&from=source" catchup="none" group-title="卫视直播1080P",生活时尚
+https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/bestv-fj-230.m3u8
 #EXTINF:-1 tvg-id="无锡新闻综合" tvg-name="无锡新闻综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/30cbe7ba3e35da82e81b.png?v=1794280065467&from=source" catchup="none" group-title="卫视直播1080P",无锡新闻综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/wuxi-news.m3u8
 #EXTINF:-1 tvg-id="无锡娱乐" tvg-name="无锡娱乐" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/210c5890162588288324.png?v=1794280065467&from=source" catchup="none" group-title="卫视直播1080P",无锡娱乐
@@ -193,18 +559,6 @@ https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 #EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-pack/%E8%8B%8F%E5%B7%9E4K.png?v=da4219c880" group-title="卫视直播1080P",苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-id="安徽经济生活" tvg-name="安徽经济生活" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/de6f77136172f07be05f.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",安徽经济生活
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/anhui-jjshtv.m3u8
-#EXTINF:-1 tvg-id="安徽影视" tvg-name="安徽影视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b9835d20bfc4a2136024.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",安徽影视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/anhui-ystv.m3u8
-#EXTINF:-1 tvg-id="安徽公共" tvg-name="安徽公共" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/5edfa3111cbf5d24a436.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",安徽公共
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/anhui-ggtv.m3u8
-#EXTINF:-1 tvg-id="安徽农业科教" tvg-name="安徽农业科教" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/317ffc32a80441365c31.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",安徽农业科教
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/anhui-nykjtv.m3u8
-#EXTINF:-1 tvg-id="安徽综艺体育" tvg-name="安徽综艺体育" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/ca26ab53a4d70b7b7aa1.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",安徽综艺体育
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/anhui-zytytv.m3u8
-#EXTINF:-1 tvg-id="安徽国际" tvg-name="安徽国际" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/6eb07c8eccf5be0488a4.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",安徽国际
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/anhui-gjtv.m3u8
 #EXTINF:-1 tvg-id="宁国新闻综合" tvg-name="宁国新闻综合" tvg-logo="" catchup="none" group-title="卫视直播1080P",宁国新闻综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-1588-2465.m3u8
 #EXTINF:-1 tvg-id="桐城综合" tvg-name="桐城综合" tvg-logo="" catchup="none" group-title="卫视直播1080P",桐城综合
@@ -217,8 +571,6 @@ https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-2853-2577.m3u8
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-2201-2593.m3u8
 #EXTINF:-1 tvg-id="阜南新闻综合" tvg-name="阜南新闻综合" tvg-logo="" catchup="none" group-title="卫视直播1080P",阜南新闻综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-3216-1469.m3u8
-#EXTINF:-1 tvg-id="CQTV新闻" tvg-name="CQTV新闻" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/3628e27ccafd22199cd0.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",CQTV新闻
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/chongqing-6.m3u8
 #EXTINF:-1 tvg-id="正直播丨直击“云端篮球场”海拔1250米的村BA（小组赛）" tvg-name="正直播丨直击“云端篮球场”海拔1250米的村BA（小组赛）" tvg-logo="https://kscgc.scgchc.com/live/image/2026/11/09/1794213077664_jiYZcCfk.jpg" catchup="none" group-title="卫视直播1080P",正直播丨直击“云端篮球场”海拔1250米的村BA（小组赛）
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/sichuan-live-2119709382269378562.m3u8
 #EXTINF:-1 tvg-id="成都新闻综合" tvg-name="成都新闻综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/5075a718119f0e1812a4.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",成都新闻综合
@@ -335,12 +687,6 @@ https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/dalian-7.m3u8
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/dalian-8.m3u8
 #EXTINF:-1 tvg-id="大连文体" tvg-name="大连文体" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/cd8f3b2927a73b809b8d.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",大连文体
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/dalian-9.m3u8
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/71642ce229b22ecf589b.jpg?v=1794448757859&from=source" group-title="卫视直播1080P",辽宁卫视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/liaoning-c077b260424404846285cba1e1759280.m3u8
-#EXTINF:-1 tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/a0e4c07403eccc043c01.jpg?v=1794448757859&from=source" group-title="卫视直播1080P",辽宁影视剧
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/liaoning-918510749a0f319ec12ff695b1c95230.m3u8
-#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/d20982fa32498971bf7f.jpg?v=1794448757859&from=source" group-title="卫视直播1080P",家庭理财
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/liaoning-7e29bde4f41ca08642b7fc3ce4eb1ae4.m3u8
 #EXTINF:-1 tvg-id="沈阳新闻综合" tvg-name="沈阳新闻综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/e205e09309242aa99dd1.jpg?v=1794448757859&from=source" group-title="卫视直播1080P",沈阳新闻综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/liaoning-d447fcc472f14c7f14872d4e26b12d8f.m3u8
 #EXTINF:-1 tvg-id="沈阳经济" tvg-name="沈阳经济" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/13b7a656db3f8ecc95ca.jpg?v=1794448757859&from=source" group-title="卫视直播1080P",沈阳经济
@@ -349,48 +695,6 @@ https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/liaoning-eaecc3f39a6
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/liaoning-acb1a5713531ac7feb7836b1b4db442c.m3u8
 #EXTINF:-1 tvg-id="金普新闻综合" tvg-name="金普新闻综合" tvg-logo="" catchup="none" group-title="卫视直播1080P",金普新闻综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-1066-1332.m3u8
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/08016064add95a9199ce.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",甘肃卫视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gansu-1.m3u8
-#EXTINF:-1 tvg-id="甘肃文化影视" tvg-name="甘肃文化影视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/6678cc2568f5706bc593.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",甘肃文化影视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gansu-2.m3u8
-#EXTINF:-1 tvg-id="甘肃移动电视" tvg-name="甘肃移动电视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/91eaafadeac175204a59.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",甘肃移动电视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gansu-3.m3u8
-#EXTINF:-1 tvg-id="甘肃少儿" tvg-name="甘肃少儿" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/c956889007383ad8866e.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",甘肃少儿
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gansu-4.m3u8
-#EXTINF:-1 tvg-id="甘肃科教" tvg-name="甘肃科教" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/f00e7c359e1237cf6595.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",甘肃科教
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gansu-5.m3u8
-#EXTINF:-1 tvg-id="甘肃公共应急" tvg-name="甘肃公共应急" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/869d95ae0942a78091ca.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",甘肃公共应急
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gansu-6.m3u8
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/1c20e6e43d54eacc6b52.png?v=1794236583950&from=source" group-title="卫视直播1080P",广东珠江
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-44.m3u8
-#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/1a5d001f0972083b0f59.png?v=1794236583950&from=source" group-title="卫视直播1080P",广东新闻
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-45.m3u8
-#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/41bb2848393cf91a6e3a.png?v=1794236583950&from=source" group-title="卫视直播1080P",广东民生
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-48.m3u8
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/a68968a4a253f818c44b.png?v=1794236583950&from=source" group-title="卫视直播1080P",广东体育
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-47.m3u8
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/dd24fe9b6d7523216313.png?v=1794236583950&from=source" group-title="卫视直播1080P",大湾区卫视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-51.m3u8
-#EXTINF:-1 tvg-id="大湾区卫视（海外版）" tvg-name="大湾区卫视（海外版）" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/c55e87d9c544064cab69.png?v=1794236583950&from=source" group-title="卫视直播1080P",大湾区卫视（海外版）
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-46.m3u8
-#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/dd4b237ddea81be3e751.png?v=1794236583950&from=source" group-title="卫视直播1080P",广东影视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-53.m3u8
-#EXTINF:-1 tvg-id="广东4K超高清" tvg-name="广东4K超高清" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/92448755af125a0fd20f.png?v=1794236583950&from=source" group-title="卫视直播1080P",广东4K超高清
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-16.m3u8
-#EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/75745d33babd0852cd74.png?v=1794236583950&from=source" group-title="卫视直播1080P",广东少儿
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-54.m3u8
-#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/86bb77df5146798f151f.png?v=1794236583950&from=source" group-title="卫视直播1080P",嘉佳卡通
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-66.m3u8
-#EXTINF:-1 tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-pack/%E5%B2%AD%E5%8D%97%E6%88%8F%E6%9B%B2.png?v=c65da6602b" group-title="卫视直播1080P",岭南戏曲
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-15.m3u8
-#EXTINF:-1 tvg-id="广东台经典剧" tvg-name="广东台经典剧" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/8daf54aab0a49d4143f1.png?v=1794236583950&from=source" group-title="卫视直播1080P",广东台经典剧
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-100.m3u8
-#EXTINF:-1 tvg-id="广东纪录片" tvg-name="广东纪录片" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/fedc071a01ba02f86142.png?v=1794236583950&from=source" group-title="卫视直播1080P",广东纪录片
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-94.m3u8
-#EXTINF:-1 tvg-id="广东健康" tvg-name="广东健康" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/751cece068d25a6817df.png?v=1794236583950&from=source" group-title="卫视直播1080P",广东健康
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-99.m3u8
-#EXTINF:-1 tvg-id="GRTN生活" tvg-name="GRTN生活" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/f86f4f256d872f9ac63c.png?v=1794236583950&from=source" group-title="卫视直播1080P",GRTN生活
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdtv-102.m3u8
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/ef7e8b64838397475411.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",广州综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/gztv-3001
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/f10617a14c013d815e05.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",广州新闻
@@ -413,52 +717,16 @@ https://livepull.hellohakka.cn/live/ch_kejiashenghuo.m3u8
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-643-1629.m3u8
 #EXTINF:-1 tvg-id="开平综合" tvg-name="开平综合" tvg-logo="" catchup="none" group-title="卫视直播1080P",开平综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-1434-1132.m3u8
-#EXTINF:-1 tvg-id="贵州公共" tvg-name="贵州公共" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/5d6c3c2e3d150a2aab57.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",贵州公共
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gzstv-public.m3u8
-#EXTINF:-1 tvg-id="贵州影视文艺" tvg-name="贵州影视文艺" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/dab3de6aed27d1beb193.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",贵州影视文艺
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gzstv-film-arts.m3u8
-#EXTINF:-1 tvg-id="贵州大众生活" tvg-name="贵州大众生活" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/bf9748621442157d2a9e.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",贵州大众生活
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gzstv-life.m3u8
-#EXTINF:-1 tvg-id="贵州生态乡村" tvg-name="贵州生态乡村" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/6974c96676d03190ba75.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",贵州生态乡村
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gzstv-eco-rural.m3u8
-#EXTINF:-1 tvg-id="贵州科教健康" tvg-name="贵州科教健康" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/4dc2642ec665fb36b722.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",贵州科教健康
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gzstv-science-health.m3u8
-#EXTINF:-1 tvg-id="贵州经济" tvg-name="贵州经济" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/0950e7ccbec673cca7b7.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",贵州经济
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gzstv-economy.m3u8
-#EXTINF:-1 tvg-id="贵州移动电视" tvg-name="贵州移动电视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/8f5362c517436ce1f15d.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",贵州移动电视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gzstv-mobile.m3u8
 #EXTINF:-1 tvg-id="印江电视台" tvg-name="印江电视台" tvg-logo="" catchup="none" group-title="卫视直播1080P",印江电视台
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-3043-4088.m3u8
 #EXTINF:-1 tvg-id="贵阳新闻综合" tvg-name="贵阳新闻综合" tvg-logo="" catchup="none" group-title="卫视直播1080P",贵阳新闻综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-4007-4814.m3u8
-#EXTINF:-1 tvg-id="广西综艺旅游" tvg-name="广西综艺旅游" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/abb3fd22502207b54c2f.png?v=1794236583950&from=source" group-title="卫视直播1080P",广西综艺旅游
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gxtv-zyly.m3u8
-#EXTINF:-1 tvg-id="广西都市" tvg-name="广西都市" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/62447228101ab1971183.png?v=1794236583950&from=source" group-title="卫视直播1080P",广西都市
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gxtv-ds.m3u8
-#EXTINF:-1 tvg-id="广西影视" tvg-name="广西影视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/eee07facd914746271ee.png?v=1794236583950&from=source" group-title="卫视直播1080P",广西影视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gxtv-ys.m3u8
-#EXTINF:-1 tvg-id="广西新闻" tvg-name="广西新闻" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/de3c32747f0982cc59fe.png?v=1794236583950&from=source" group-title="卫视直播1080P",广西新闻
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gxtv-xw.m3u8
-#EXTINF:-1 tvg-id="广西国际" tvg-name="广西国际" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/a318b3ab3d5e6cc64973.png?v=1794236583950&from=source" group-title="卫视直播1080P",广西国际
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gxtv-gj.m3u8
-#EXTINF:-1 tvg-id="广西移动" tvg-name="广西移动" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/7133baa02a56619234a2.png?v=1794236583950&from=source" group-title="卫视直播1080P",广西移动
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/gxtv-yd.m3u8
 #EXTINF:-1 tvg-id="柳州新闻综合" tvg-name="柳州新闻综合" tvg-logo="" catchup="none" group-title="卫视直播1080P",柳州新闻综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-1902-3370.m3u8
 #EXTINF:-1 tvg-id="柳州科教" tvg-name="柳州科教" tvg-logo="" catchup="none" group-title="卫视直播1080P",柳州科教
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-1808-3370.m3u8
 #EXTINF:-1 tvg-id="玉林新闻综合" tvg-name="玉林新闻综合" tvg-logo="" catchup="none" group-title="卫视直播1080P",玉林新闻综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-3289-4042.m3u8
-#EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/a27ade8c26c175f38c5e.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",福建综合
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/fjtv-province-665248990102917120.m3u8
-#EXTINF:-1 tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/05a6cd5dc426f165dfe8.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",福建新闻
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/fjtv-province-665248914378952704.m3u8
-#EXTINF:-1 tvg-id="福建文旅体育" tvg-name="福建文旅体育" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/335059e07f510b82b075.png?v=1794236583950&from=source" group-title="卫视直播1080P",福建文旅体育
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/fjtv-province-665248752898248704.m3u8
-#EXTINF:-1 tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/dff2559053d03bbe5c0b.png?v=1794236583950&from=source" group-title="卫视直播1080P",福建少儿
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/fjtv-province-665248553475870720.m3u8
-#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/cd3c419e7ca8d1d8b576.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",海峡卫视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/fjtv-province-665248523855695872.m3u8
 #EXTINF:-1 tvg-id="厦视一套" tvg-name="厦视一套" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/6e9a555580fb5322291e.png?v=1794236583950&from=source" group-title="卫视直播1080P",厦视一套
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/fjtv-xiamen-16.m3u8
 #EXTINF:-1 tvg-id="厦视二套" tvg-name="厦视二套" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/508b1974b5afe2743180.png?v=1794236583950&from=source" group-title="卫视直播1080P",厦视二套
@@ -513,18 +781,6 @@ https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-1792-2311.m3u8
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-2803-3350.m3u8
 #EXTINF:-1 tvg-id="德化电视台" tvg-name="德化电视台" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-pack/%E5%BE%B7%E5%8C%96%E7%94%B5%E8%A7%86%E5%8F%B0.png?v=0324332464" group-title="卫视直播1080P",德化电视台
 https://play.cmptp.fjgdwl.com/live/63a563ec75764af588f3215b0afa2588.m3u8
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/bbcfd6cf91138802c3e6.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",吉林卫视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jlntv-satellite.m3u8
-#EXTINF:-1 tvg-id="吉林都市" tvg-name="吉林都市" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/21cfdd6f1eb99b71e83f.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",吉林都市
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jlntv-city.m3u8
-#EXTINF:-1 tvg-id="吉林生活" tvg-name="吉林生活" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/d4dd63c78236e01e4ab7.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",吉林生活
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jlntv-life.m3u8
-#EXTINF:-1 tvg-id="吉林影视" tvg-name="吉林影视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/5ec6d185831185f32460.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",吉林影视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jlntv-movies.m3u8
-#EXTINF:-1 tvg-id="吉林乡村" tvg-name="吉林乡村" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/4abedb137ba101cc285a.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",吉林乡村
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jlntv-rural.m3u8
-#EXTINF:-1 tvg-id="吉林综艺文化" tvg-name="吉林综艺文化" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/8d08932065ac87e5c954.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",吉林综艺文化
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jlntv-variety-culture.m3u8
 #EXTINF:-1 tvg-id="长春综合" tvg-name="长春综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/c014db7c46f3869808ac.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",长春综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jlntv-changchun.m3u8
 #EXTINF:-1 tvg-id="吉林新闻综合" tvg-name="吉林新闻综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/3ee93b22bfbb05d145fa.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",吉林新闻综合
@@ -541,48 +797,10 @@ https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jlntv-baishan.m3u8
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jlntv-baicheng.m3u8
 #EXTINF:-1 tvg-id="松原新闻综合" tvg-name="松原新闻综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/3a5cd79751c2be40726f.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",松原新闻综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jlntv-songyuan.m3u8
-#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/52cf9dc1bdd61db8448f.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",延边卫视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jlntv-yanbian.m3u8
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/3163cd8602cfef303253.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",江西卫视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jxntv-satellite.m3u8
-#EXTINF:-1 tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/d35557170ca2eaaea048.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",江西都市
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jxntv-city.m3u8
-#EXTINF:-1 tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/f0bfbce0dc35f02f7109.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",江西经济生活
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jxntv-economy-life.m3u8
-#EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b1bd6900987d8423c87b.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",江西公共农业
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jxntv-public-agriculture.m3u8
-#EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b6e1a63b7a4ac885e59a.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",江西少儿
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jxntv-kids.m3u8
-#EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/d8423cfe0c3b9a72b68d.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",江西新闻
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jxntv-news.m3u8
-#EXTINF:-1 tvg-id="江西移动电视" tvg-name="江西移动电视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/ca5126a41ad9c96fd4d8.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",江西移动电视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jxntv-mobile.m3u8
-#EXTINF:-1 tvg-id="江西陶瓷" tvg-name="江西陶瓷" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/97a23f6d60b5f6851daf.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",江西陶瓷
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/jxntv-ceramics.m3u8
 #EXTINF:-1 tvg-id="鹰潭新闻综合" tvg-name="鹰潭新闻综合" tvg-logo="" catchup="none" group-title="卫视直播1080P",鹰潭新闻综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-2574-3313.m3u8
-#EXTINF:-1 tvg-id="河北经济生活" tvg-name="河北经济生活" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b8066eb66aa36e27b84a.png?v=1794236583950&from=source" group-title="卫视直播1080P",河北经济生活
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/hebtv-10516507.m3u8
-#EXTINF:-1 tvg-id="河北都市" tvg-name="河北都市" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b8066eb66aa36e27b84a.png?v=1794236583950&from=source" group-title="卫视直播1080P",河北都市
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/hebtv-10516509.m3u8
-#EXTINF:-1 tvg-id="河北文旅体育" tvg-name="河北文旅体育" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b8066eb66aa36e27b84a.png?v=1794236583950&from=source" group-title="卫视直播1080P",河北文旅体育
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/hebtv-10516510.m3u8
-#EXTINF:-1 tvg-id="河北少儿科教" tvg-name="河北少儿科教" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b8066eb66aa36e27b84a.png?v=1794236583950&from=source" group-title="卫视直播1080P",河北少儿科教
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/hebtv-10516511.m3u8
-#EXTINF:-1 tvg-id="河北三农" tvg-name="河北三农" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b8066eb66aa36e27b84a.png?v=1794236583950&from=source" group-title="卫视直播1080P",河北三农
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/hebtv-10516508.m3u8
 #EXTINF:-1 tvg-id="饶阳综合" tvg-name="饶阳综合" tvg-logo="" catchup="none" group-title="卫视直播1080P",饶阳综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-3817-2562.m3u8
-#EXTINF:-1 tvg-id="湖北经视" tvg-name="湖北经视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/2c99054702b0f5971506.png?v=1794236583950&from=source" group-title="卫视直播1080P",湖北经视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/hbtv-432.m3u8
-#EXTINF:-1 tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/5408643f879ad5c8e383.png?v=1794236583950&from=source" group-title="卫视直播1080P",湖北综合
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/hbtv-433.m3u8
-#EXTINF:-1 tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b3484865a07e6a1b6fac.png?v=1794236583950&from=source" group-title="卫视直播1080P",湖北影视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/hbtv-435.m3u8
-#EXTINF:-1 tvg-id="湖北教育" tvg-name="湖北教育" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/86197821e3ee2fa09c32.png?v=1794236583950&from=source" group-title="卫视直播1080P",湖北教育
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/hbtv-437.m3u8
-#EXTINF:-1 tvg-id="湖北垄上" tvg-name="湖北垄上" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/33cb6a51d2ba59598e68.png?v=1794236583950&from=source" group-title="卫视直播1080P",湖北垄上
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/hbtv-438.m3u8
 #EXTINF:-1 tvg-id="襄阳综合" tvg-name="襄阳综合" tvg-logo="" catchup="none" group-title="卫视直播1080P",襄阳综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-3061-1500.m3u8
 #EXTINF:-1 tvg-id="襄阳经济生活" tvg-name="襄阳经济生活" tvg-logo="" catchup="none" group-title="卫视直播1080P",襄阳经济生活
@@ -617,62 +835,12 @@ https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-3831-1887.m3u8
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-3947-4736.m3u8
 #EXTINF:-1 tvg-id="郧阳电视台" tvg-name="郧阳电视台" tvg-logo="" catchup="none" group-title="卫视直播1080P",郧阳电视台
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-3820-3659.m3u8
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/80b73f62d20b8f743b48.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",黑龙江卫视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/heilongjiang-hljws_own.m3u8
-#EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/4dd3a743f91fc4bf866c.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",黑龙江都市
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/heilongjiang-dushi_hd.m3u8
-#EXTINF:-1 tvg-id="黑龙江新闻法治" tvg-name="黑龙江新闻法治" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b77af8603f21dcb8b2b6.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",黑龙江新闻法治
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/heilongjiang-hljxw_hd.m3u8
-#EXTINF:-1 tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b1d7caaeabd8da7ba29c.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",黑龙江文体
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/heilongjiang-hljwy_hd.m3u8
-#EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/9cadaf8ab046134b7e6f.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",黑龙江少儿
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/heilongjiang-hljse_hd.m3u8
-#EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/a485781d2f9fca8cc63c.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",黑龙江影视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/heilongjiang-hljys_hd.m3u8
-#EXTINF:-1 tvg-id="黑龙江农业科教" tvg-name="黑龙江农业科教" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/6a9251919b2e57b4464d.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",黑龙江农业科教
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/heilongjiang-hljgg_hd.m3u8
 #EXTINF:-1 tvg-id="大庆新闻综合" tvg-name="大庆新闻综合" tvg-logo="" catchup="none" group-title="卫视直播1080P",大庆新闻综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-2281-1463.m3u8
 #EXTINF:-1 tvg-id="大庆教育" tvg-name="大庆教育" tvg-logo="" catchup="none" group-title="卫视直播1080P",大庆教育
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-2283-1463.m3u8
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/e7f2831287a0bb7a6881.png?v=1794236583950&from=source" group-title="卫视直播1080P",海南卫视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hnntv-13
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/92b34d4583ade2ca7325.png?v=1794236583950&from=source" group-title="卫视直播1080P",三沙卫视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hnntv-5
-#EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/0dc3c53411917e1ebf58.png?v=1794236583950&from=source" group-title="卫视直播1080P",海南自贸
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hnntv-1
-#EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/fe9aa3639a36b20e3eea.png?v=1794236583950&from=source" group-title="卫视直播1080P",海南新闻
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hnntv-3
-#EXTINF:-1 tvg-id="海南社会与法" tvg-name="海南社会与法" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/e8cde202647d2b00e88b.png?v=1794236583950&from=source" group-title="卫视直播1080P",海南社会与法
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hnntv-4
-#EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/eaeb023572e989249186.png?v=1794236583950&from=source" group-title="卫视直播1080P",海南文旅
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hnntv-6
-#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/7df8d145b86f0ae47be5.png?v=1794236583950&from=source" group-title="卫视直播1080P",海南少儿
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hnntv-7
 #EXTINF:-1 tvg-id="儋州电视台" tvg-name="儋州电视台" tvg-logo="" catchup="none" group-title="卫视直播1080P",儋州电视台
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-1330-1669.m3u8
-#EXTINF:-1 tvg-id="河南新闻" tvg-name="河南新闻" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/2aab62b758c7667a4fb9.png?v=1794236583950&from=source" group-title="卫视直播1080P",河南新闻
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hntv-149
-#EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/18c6d3166554076dce14.png?v=1794236583950&from=source" group-title="卫视直播1080P",河南都市
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hntv-141
-#EXTINF:-1 tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/20b3a7fdd82bb8f03a3b.png?v=1794236583950&from=source" group-title="卫视直播1080P",河南民生
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hntv-146
-#EXTINF:-1 tvg-id="河南法治" tvg-name="河南法治" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/6b9c4720440fc472f63d.png?v=1794236583950&from=source" group-title="卫视直播1080P",河南法治
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hntv-147
-#EXTINF:-1 tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/79542f9bf3f0cc3d4879.png?v=1794236583950&from=source" group-title="卫视直播1080P",河南公共
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hntv-151
-#EXTINF:-1 tvg-id="河南乡村" tvg-name="河南乡村" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/ab4f638ff0e0adb38395.png?v=1794236583950&from=source" group-title="卫视直播1080P",河南乡村
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hntv-152
-#EXTINF:-1 tvg-id="河南电视剧" tvg-name="河南电视剧" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/de9c81c063e5b707cebe.png?v=1794236583950&from=source" group-title="卫视直播1080P",河南电视剧
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hntv-148
-#EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/ecf57014b258a26fac4c.png?v=1794236583950&from=source" group-title="卫视直播1080P",梨园频道
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hntv-154
-#EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/d1c64b6e383fb681525e.png?v=1794236583950&from=source" group-title="卫视直播1080P",文物宝库
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hntv-155
-#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/352d90e8a147e8d38d73.png?v=1794236583950&from=source" group-title="卫视直播1080P",武术世界
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hntv-156
-#EXTINF:-1 tvg-id="国学频道" tvg-name="国学频道" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/3bf58650e7a17c502b8c.png?v=1794236583950&from=source" group-title="卫视直播1080P",国学频道
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/hntv-194
 #EXTINF:-1 tvg-id="濮阳新闻综合" tvg-name="濮阳新闻综合" tvg-logo="" catchup="none" group-title="卫视直播1080P",濮阳新闻综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-3662-3616.m3u8
 #EXTINF:-1 tvg-id="濮阳公共" tvg-name="濮阳公共" tvg-logo="" catchup="none" group-title="卫视直播1080P",濮阳公共
@@ -683,26 +851,8 @@ https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-340-1465.m3u8
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-3706-4436.m3u8
 #EXTINF:-1 tvg-id="新乡公共" tvg-name="新乡公共" tvg-logo="" catchup="none" group-title="卫视直播1080P",新乡公共
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-3708-4436.m3u8
-#EXTINF:-1 tvg-id="钱江都市" tvg-name="钱江都市" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/0b060483a003ad8d8589.png?v=1794236583950&from=source" group-title="卫视直播1080P",钱江都市
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/cztv-102.m3u8
-#EXTINF:-1 tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/db37a8cf04bb9ab041a4.png?v=1794236583950&from=source" group-title="卫视直播1080P",浙江经济生活
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/cztv-103.m3u8
-#EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/3260ce9482525dad36a0.png?v=1794236583950&from=source" group-title="卫视直播1080P",浙江教科影视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/cztv-104.m3u8
-#EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/c6bdd4f389141e5ae8ff.png?v=1794236583950&from=source" group-title="卫视直播1080P",浙江民生休闲
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/cztv-106.m3u8
-#EXTINF:-1 tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/7d4f776ba7231f5cb1b8.png?v=1794236583950&from=source" group-title="卫视直播1080P",浙江新闻
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/cztv-107.m3u8
-#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/cdba2f70676972864fe8.png?v=1794236583950&from=source" group-title="卫视直播1080P",浙江少儿
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/cztv-108.m3u8
-#EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/316802d2c1e8a3548b1f.png?v=1794236583950&from=source" group-title="卫视直播1080P",浙江国际
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/cztv-110.m3u8
-#EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/07b4e7a986ba354e3af6.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",之江纪录
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/cztv-112.m3u8
 #EXTINF:-1 tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/588e5c424915c77b4165.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",杭州综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/hangzhou-general.m3u8
-#EXTINF:-1 tvg-id="西湖明珠" tvg-name="西湖明珠" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/267f5a81e9365b4f56e8.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",西湖明珠
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/hangzhou-pearl.m3u8
 #EXTINF:-1 tvg-id="杭州生活" tvg-name="杭州生活" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/68037d9583e9f36da57c.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",杭州生活
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/hangzhou-life.m3u8
 #EXTINF:-1 tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/c21d5a4b3d177e3affd0.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",杭州影视
@@ -781,22 +931,6 @@ https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-3697-1346.m3u8
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-4051-1358.m3u8
 #EXTINF:-1 tvg-id="永康华溪" tvg-name="永康华溪" tvg-logo="" catchup="none" group-title="卫视直播1080P",永康华溪
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-4050-1358.m3u8
-#EXTINF:-1 tvg-id="齐鲁频道" tvg-name="齐鲁频道" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/f29cbd6c0fa313da1c61.png?v=1794236583950&from=source" group-title="卫视直播1080P",齐鲁频道
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/iqilu-qlpd
-#EXTINF:-1 tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/527b8f32a6623e7ea995.png?v=1794236583950&from=source" group-title="卫视直播1080P",山东新闻
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/iqilu-ggpd
-#EXTINF:-1 tvg-id="山东体育休闲" tvg-name="山东体育休闲" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/d8a16b51b2eb8ac59d45.png?v=1794236583950&from=source" group-title="卫视直播1080P",山东体育休闲
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/iqilu-typd
-#EXTINF:-1 tvg-id="山东生活" tvg-name="山东生活" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/7cb16dc5cacbf0138876.png?v=1794236583950&from=source" group-title="卫视直播1080P",山东生活
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/iqilu-shpd
-#EXTINF:-1 tvg-id="山东综艺" tvg-name="山东综艺" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/3589f447cec45f7556f6.png?v=1794236583950&from=source" group-title="卫视直播1080P",山东综艺
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/iqilu-zypd
-#EXTINF:-1 tvg-id="山东农科" tvg-name="山东农科" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/8bc01d0782f985da9121.png?v=1794236583950&from=source" group-title="卫视直播1080P",山东农科
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/iqilu-nkpd
-#EXTINF:-1 tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/65a4d6017c0bbd651807.png?v=1794236583950&from=source" group-title="卫视直播1080P",山东文旅
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/iqilu-yspd
-#EXTINF:-1 tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/cfec6bcf4b8dba4be9de.png?v=1794236583950&from=source" group-title="卫视直播1080P",山东少儿
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/iqilu-sepd
 #EXTINF:-1 tvg-id="青岛新闻综合" tvg-name="青岛新闻综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/200ac7529d8d0e866b96.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",青岛新闻综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/qingdao-1.m3u8
 #EXTINF:-1 tvg-id="青岛生活服务" tvg-name="青岛生活服务" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/200ac7529d8d0e866b96.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",青岛生活服务
@@ -1023,8 +1157,6 @@ https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/sdcounty-117-5
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/sdcounty-117-6
 #EXTINF:-1 tvg-id="梁山综合" tvg-name="梁山综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/9a6005c42aaa68cf2136.png?v=1794150537884&from=source" catchup="none" group-title="卫视直播1080P",梁山综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/sdcounty-89-1
-#EXTINF:-1 tvg-id="泰山频道" tvg-name="泰山频道" tvg-logo="" catchup="none" group-title="卫视直播1080P",泰山频道
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/sdcounty-263-1
 #EXTINF:-1 tvg-id="岱岳电视台" tvg-name="岱岳电视台" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/a7eda1495370d456578d.png?v=1794150537884&from=source" catchup="none" group-title="卫视直播1080P",岱岳电视台
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/sdcounty-293-1
 #EXTINF:-1 tvg-id="新泰综合" tvg-name="新泰综合" tvg-logo="" catchup="none" group-title="卫视直播1080P",新泰综合
@@ -1227,22 +1359,6 @@ https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/sdcounty-141-186
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/sdcounty-141-274
 #EXTINF:-1 tvg-id="东明新闻综合" tvg-name="东明新闻综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/751a62996de654c82eb0.jpg?v=1794150537884&from=source" catchup="none" group-title="卫视直播1080P",东明新闻综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/sdcounty-111-2
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/ab5fd75b23c1209694c6.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",内蒙古卫视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/nmtv-satellite.m3u8
-#EXTINF:-1 tvg-id="内蒙古蒙古语卫视" tvg-name="内蒙古蒙古语卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/d0dab72595036d8aadbf.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",内蒙古蒙古语卫视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/nmtv-mongolian-satellite.m3u8
-#EXTINF:-1 tvg-id="内蒙古新闻综合" tvg-name="内蒙古新闻综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/dd62e3834590987ed086.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",内蒙古新闻综合
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/nmtv-news-general.m3u8
-#EXTINF:-1 tvg-id="内蒙古经济生活" tvg-name="内蒙古经济生活" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/4a1134b47fc911b2299c.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",内蒙古经济生活
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/nmtv-economy-life.m3u8
-#EXTINF:-1 tvg-id="内蒙古少儿" tvg-name="内蒙古少儿" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/1703c66264bc93861341.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",内蒙古少儿
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/nmtv-kids.m3u8
-#EXTINF:-1 tvg-id="内蒙古文体娱乐" tvg-name="内蒙古文体娱乐" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/303bc059077d42ed7ca9.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",内蒙古文体娱乐
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/nmtv-culture-sports.m3u8
-#EXTINF:-1 tvg-id="内蒙古农牧" tvg-name="内蒙古农牧" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/7d7a4284bb9433567510.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",内蒙古农牧
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/nmtv-agriculture.m3u8
-#EXTINF:-1 tvg-id="内蒙古蒙古语文化频道" tvg-name="内蒙古蒙古语文化频道" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/07cefeb03e5bd25bafaa.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",内蒙古蒙古语文化频道
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/nmtv-mongolian-culture.m3u8
 #EXTINF:-1 tvg-id="呼和浩特" tvg-name="呼和浩特" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/eadffbf44e038adfc41f.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",呼和浩特
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/nmtv-hohhot.m3u8
 #EXTINF:-1 tvg-id="包头" tvg-name="包头" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/5bf914edf3eb4398432a.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",包头
@@ -1267,16 +1383,6 @@ https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/nmtv-ordos.m3u8
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/nmtv-bayannur.m3u8
 #EXTINF:-1 tvg-id="阿拉善" tvg-name="阿拉善" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/8e9a66156c563ac58643.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",阿拉善
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/nmtv-alxa.m3u8
-#EXTINF:-1 tvg-id="黄河电视台" tvg-name="黄河电视台" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/d5c18260d83d3c165e73.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",黄河电视台
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/shanxi-huanghe.m3u8
-#EXTINF:-1 tvg-id="山西经济与科技" tvg-name="山西经济与科技" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/7fb8f2cc43cd52444dac.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",山西经济与科技
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/shanxi-economy-tech.m3u8
-#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/d1d82cfa72e7f48412e4.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",山西影视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/shanxi-film.m3u8
-#EXTINF:-1 tvg-id="山西社会与法治" tvg-name="山西社会与法治" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/0007b79c4018e96ae436.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",山西社会与法治
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/shanxi-society-law.m3u8
-#EXTINF:-1 tvg-id="山西文体生活" tvg-name="山西文体生活" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/aaf9bf195aa487f7bb42.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",山西文体生活
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/shanxi-culture-sports-life.m3u8
 #EXTINF:-1 tvg-id="太原-1" tvg-name="太原-1" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/da9ea3eba7f9b0c962d0.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",太原-1
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/shanxi-taiyuan-1.m3u8
 #EXTINF:-1 tvg-id="朔州-1" tvg-name="朔州-1" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/d9f8d0b57de3cfe3962c.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",朔州-1
@@ -1307,66 +1413,18 @@ https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-3406-1779.m3u8
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-3407-1723.m3u8
 #EXTINF:-1 tvg-id="芮城综合" tvg-name="芮城综合" tvg-logo="" catchup="none" group-title="卫视直播1080P",芮城综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-2511-3580.m3u8
-#EXTINF:-1 tvg-id="陕西新闻资讯频道" tvg-name="陕西新闻资讯频道" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/27aaf6611c6e2738b791.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",陕西新闻资讯频道
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/shaanxi-news.m3u8
-#EXTINF:-1 tvg-id="陕西都市青春频道" tvg-name="陕西都市青春频道" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/6823d6d6b7bfcffb3b49.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",陕西都市青春频道
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/shaanxi-urban-youth.m3u8
-#EXTINF:-1 tvg-id="陕西银龄频道" tvg-name="陕西银龄频道" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/a8bd5afad7f898781c85.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",陕西银龄频道
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/shaanxi-silver-age.m3u8
-#EXTINF:-1 tvg-id="陕西秦腔频道" tvg-name="陕西秦腔频道" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/8533bcef42f6c92ce05a.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",陕西秦腔频道
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/shaanxi-qinqiang.m3u8
-#EXTINF:-1 tvg-id="陕西体育休闲频道" tvg-name="陕西体育休闲频道" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/f7783adf5aedee7ae888.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",陕西体育休闲频道
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/shaanxi-sports-leisure.m3u8
-#EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/aedd738029c23bd48c90.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",农林卫视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/shaanxi-nonglin.m3u8
-#EXTINF:-1 tvg-id="陕西移动电视" tvg-name="陕西移动电视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/7532a1c35e71c5b5abba.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",陕西移动电视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/shaanxi-mobile.m3u8
-#EXTINF:-1 tvg-id="天津新闻" tvg-name="天津新闻" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/637667a61605624f85df.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",天津新闻
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/tianjin-news.m3u8
-#EXTINF:-1 tvg-id="天津文艺" tvg-name="天津文艺" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/f7afd8ef36de1cc80d8e.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",天津文艺
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/tianjin-arts.m3u8
-#EXTINF:-1 tvg-id="天津影视" tvg-name="天津影视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/60a2088df21a730f6c7d.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",天津影视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/tianjin-film.m3u8
-#EXTINF:-1 tvg-id="天津都市" tvg-name="天津都市" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/c87bb271dc21e618d21d.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",天津都市
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/tianjin-city.m3u8
-#EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/355dde394b85b8b03e40.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",天津体育
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/tianjin-sports.m3u8
-#EXTINF:-1 tvg-id="天津教育" tvg-name="天津教育" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/85bde19fc110ec138a4a.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",天津教育
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/tianjin-education.m3u8
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-pack/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png?v=55e8aec4f1" catchup="none" group-title="卫视直播1080P",青海卫视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/qinghai-qhws.m3u8
-#EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/5b4667507f32a2d2fbe4.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",安多卫视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/qinghai-amdo.m3u8
-#EXTINF:-1 tvg-id="青海经济生活" tvg-name="青海经济生活" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-pack/%E9%9D%92%E6%B5%B7%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB.png?v=b9476cdd92" catchup="none" group-title="卫视直播1080P",青海经济生活
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/qinghai-qhsh.m3u8
-#EXTINF:-1 tvg-id="青海都市" tvg-name="青海都市" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-pack/%E9%9D%92%E6%B5%B7%E9%83%BD%E5%B8%82.png?v=a1815121a2" catchup="none" group-title="卫视直播1080P",青海都市
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/qinghai-qhds.m3u8
 #EXTINF:-1 tvg-id="格尔木新闻综合" tvg-name="格尔木新闻综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/77e23569ad6ac0bafbf1.png?v=1794525825257&from=source" catchup="none" group-title="卫视直播1080P",格尔木新闻综合
 https://miku-live-hls-gemwkl-tv.geermurmt.cn/gemwkl-tv/xwzh.m3u8?sign=bd290c67d513b07aa49842b8aedd02c2&t=1876791311
 #EXTINF:-1 tvg-id="海东综合频道" tvg-name="海东综合频道" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b7bc948fb77969b1ec6c.png?v=1794525825257&from=source" catchup="none" group-title="卫视直播1080P",海东综合频道
 https://hls-hdapp.hdhhy.cn/ashh-tv/zhds.m3u8?sign=26c873e6e3d94ba02aa78c0fbf326dfd&t=1886228277
 #EXTINF:-1 tvg-id="西宁新闻综合" tvg-name="西宁新闻综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-pack/%E8%A5%BF%E5%AE%81%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png?v=8aa6c5796d" group-title="卫视直播1080P",西宁新闻综合
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-pack/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png?v=59f2f72118" catchup="none" group-title="卫视直播1080P",宁夏卫视
-https://hls.nxhhy.cn/live/nxws1M.m3u8
-#EXTINF:-1 tvg-id="宁夏公共" tvg-name="宁夏公共" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-pack/%E5%AE%81%E5%A4%8F%E5%85%AC%E5%85%B1.png?v=47f5617fc2" catchup="none" group-title="卫视直播1080P",宁夏公共
-https://hls.nxhhy.cn/live/nxgg1M.m3u8
-#EXTINF:-1 tvg-id="宁夏文旅" tvg-name="宁夏文旅" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-pack/%E5%AE%81%E5%A4%8F%E6%96%87%E6%97%85.png?v=7b887a2d8d" catchup="none" group-title="卫视直播1080P",宁夏文旅
-https://hls.nxhhy.cn/live/nxwl1M.m3u8
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/bc8bd70209a65f39d96e.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",新疆卫视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/xjtv-1.m3u8
 #EXTINF:-1 tvg-id="维吾尔语新闻综合" tvg-name="维吾尔语新闻综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/31496c721e2e21cf014c.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",维吾尔语新闻综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/xjtv-2.m3u8
 #EXTINF:-1 tvg-id="哈萨克语新闻综合" tvg-name="哈萨克语新闻综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/1331f3f69902eb01cd7a.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",哈萨克语新闻综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/xjtv-3.m3u8
-#EXTINF:-1 tvg-id="新疆汉语综艺" tvg-name="新疆汉语综艺" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/993c93e57cef8b2465a9.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",新疆汉语综艺
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/xjtv-4.m3u8
 #EXTINF:-1 tvg-id="维吾尔语影视" tvg-name="维吾尔语影视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/7d1a760debdc8e698f89.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",维吾尔语影视
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/xjtv-5.m3u8
-#EXTINF:-1 tvg-id="新疆体育健康" tvg-name="新疆体育健康" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/fc22ad1c46315acbc6dd.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",新疆体育健康
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/xjtv-7.m3u8
-#EXTINF:-1 tvg-id="新疆少儿" tvg-name="新疆少儿" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/4bf9190b1e44c9712da7.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",新疆少儿
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/xjtv-8.m3u8
 #EXTINF:-1 tvg-id="阿克苏汉语综合" tvg-name="阿克苏汉语综合" tvg-logo="" catchup="none" group-title="卫视直播1080P",阿克苏汉语综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-2229-3643.m3u8
 #EXTINF:-1 tvg-id="阿克苏维语综合" tvg-name="阿克苏维语综合" tvg-logo="" catchup="none" group-title="卫视直播1080P",阿克苏维语综合
@@ -1377,60 +1435,14 @@ https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-2234-3643.m3u8
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-3377-4239.m3u8
 #EXTINF:-1 tvg-id="布尔津汉语" tvg-name="布尔津汉语" tvg-logo="" catchup="none" group-title="卫视直播1080P",布尔津汉语
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-3366-4239.m3u8
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/f28aabbd4d342e023c53.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",西藏卫视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/xizang-satellite.m3u8
-#EXTINF:-1 tvg-id="西藏藏语卫视" tvg-name="西藏藏语卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/0e9687b7cf0b329493ae.jpg?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",西藏藏语卫视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/xizang-tibetan.m3u8
-#EXTINF:-1 tvg-id="西藏影视文化" tvg-name="西藏影视文化" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/0ffbe9794fdc71a2f38d.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",西藏影视文化
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/xizang-film-culture.m3u8
-#EXTINF:-1 tvg-id="云南都市" tvg-name="云南都市" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/b0e32e80280113344283.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",云南都市
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/yunnan-urban.m3u8
-#EXTINF:-1 tvg-id="云南康旅" tvg-name="云南康旅" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/e7197b1951c90ec11713.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",云南康旅
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/yunnan-travel.m3u8
-#EXTINF:-1 tvg-id="澜湄国际" tvg-name="澜湄国际" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-pack/%E6%BE%9C%E6%B9%84%E5%9B%BD%E9%99%85.png?v=c9ca786679" catchup="none" group-title="卫视直播1080P",澜湄国际
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/yunnan-lancang.m3u8
 #EXTINF:-1 tvg-id="临沧综合" tvg-name="临沧综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/7df529e8bf3761622150.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",临沧综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/yunnan-lincang.m3u8
 #EXTINF:-1 tvg-id="怒江综合" tvg-name="怒江综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/96a1f543331be5707e38.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",怒江综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/yunnan-nujiang.m3u8
 #EXTINF:-1 tvg-id="昭通综合" tvg-name="昭通综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/12247e0157e5fa424877.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",昭通综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/yunnan-zhaotong.m3u8
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/c5e3bc7a49fd62f48975.png?v=1794236583950&from=source" group-title="卫视直播1080P",上海新闻综合
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/kankanews-2.m3u8
-#EXTINF:-1 tvg-id="魔都眼" tvg-name="魔都眼" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/259556d0e15362653dc8.png?v=1794236583950&from=source" group-title="卫视直播1080P",魔都眼
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/kankanews-11.m3u8
-#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/ac779cc00833c4cb8a22.png?v=1794236583950&from=source" group-title="卫视直播1080P",第一财经
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/kankanews-5.m3u8
-#EXTINF:-1 tvg-id="新纪实" tvg-name="新纪实" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/a7f8a1f5ae015a0a4e9e.png?v=1794236583950&from=source" group-title="卫视直播1080P",新纪实
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/kankanews-12.m3u8
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/f41c08724785acf0e7f3.png?v=1794236583950&from=source" group-title="卫视直播1080P",五星体育
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/kankanews-10.m3u8
-#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/d809bff3bc80f6d920d1.png?v=1794236583950&from=source" group-title="卫视直播1080P",上海都市
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/kankanews-4.m3u8
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/0d73db99a2219ebe43a4.png?v=1794236583950&from=source" group-title="卫视直播1080P",哈哈炫动
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/kankanews-9.m3u8
-#EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/8cdb9dc6af101d2ad2cc.webp?v=1794236583950&from=source" group-title="卫视直播1080P",上视东方影视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/617290047
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/4951bad78718aa688cdd.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",金鹰卡通
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/mgtv-287.m3u8
-#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/488112d00dd4e257c914.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",湖南经视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/mgtv-280.m3u8
-#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/490ad5e5b1f937bfac22.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",湖南娱乐
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/mgtv-344.m3u8
-#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/ec020978bb2a35415d05.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",湖南电影
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/mgtv-221.m3u8
-#EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/a88dd938191a0f71786e.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",湖南都市
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/mgtv-346.m3u8
-#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/0537aee9330612d7e2ab.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",湖南电视剧
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/mgtv-484.m3u8
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/acdf8f6297db8a8397c7.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",金鹰纪实
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/mgtv-316.m3u8
-#EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/40345bc8995486460073.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",湖南爱晚
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/mgtv-261.m3u8
-#EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/99e84e0e6c8b6cc1a627.jpg?v=1794236583950&from=source" group-title="卫视直播1080P",湖南国际
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/mgtv-229.m3u8
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-pack/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93.png?v=483e238c9d" group-title="卫视直播1080P",快乐垂钓
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/mgtv-218.m3u8
 #EXTINF:-1 tvg-id="长沙新闻综合" tvg-name="长沙新闻综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/fdfc37e0d23e1779bfbe.png?v=1794236583950&from=source" group-title="卫视直播1080P",长沙新闻综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/proxy/mgtv-269.m3u8
 #EXTINF:-1 tvg-id="长沙政法" tvg-name="长沙政法" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/71c901ad68d094fa1fc8.png?v=1794236583950&from=source" group-title="卫视直播1080P",长沙政法
@@ -1457,18 +1469,6 @@ https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-3991-4802.m3u8
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-3990-4802.m3u8
 #EXTINF:-1 tvg-id="长沙移动电视" tvg-name="长沙移动电视" tvg-logo="" catchup="none" group-title="卫视直播1080P",长沙移动电视
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/gdy-356-1648.m3u8
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/60e15e07cc0ad9014acc.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",兵团卫视
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/bestv-fj-215.m3u8
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/8810ba799d0daee50a2c.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",卡酷少儿
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/bestv-fj-209.m3u8
-#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/0579ea81c278fb33897b.png?v=1794236583950&from=source" catchup="none" group-title="卫视直播1080P",CETV1
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/ysp-cetv1.m3u8
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/8405f865c69608b7e2d2.jpg?v=1794044505637&from=source" catchup="none" group-title="卫视直播1080P",都市剧场
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/bestv-fj-220.m3u8
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/7c7d5abc4408cc5906cf.png?v=1794044505637&from=source" catchup="none" group-title="卫视直播1080P",东方财经
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/bestv-fj-227.m3u8
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/921dd122d8a5c893dad1.png?v=1794044505637&from=source" catchup="none" group-title="卫视直播1080P",生活时尚
-https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/relay/bestv-fj-230.m3u8
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/af828afc94a335d9679f.webp?v=1794236583950&from=source" group-title="咪咕卫视直播",CCTV1综合
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/608807420
 #EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/c2883c6cf59ac563cf74.webp?v=1794236583950&from=source" group-title="咪咕卫视直播",CCTV2财经
