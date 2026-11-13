@@ -1,0 +1,42 @@
+name: update-live
+
+on:
+  schedule:
+    # 每天 22:10 UTC = 北京时间 06:10
+    - cron: "10 22 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-live
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 重建清单（体检 + 同名换源，只换源不删台）
+        run: python scripts/build.py --base base.m3u --out live.m3u
+
+      - name: 只保留一条提交，推到 live 分支
+        run: |
+          git config user.name  "auto-update"
+          git config user.email "auto-update@users.noreply.github.com"
+          cp live.m3u /tmp/live.m3u
+          git checkout --orphan live-build
+          git rm -rf --quiet .
+          cp /tmp/live.m3u live.m3u
+          git add live.m3u
+          git commit -m "auto: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push -f origin live-build:live
