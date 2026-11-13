@@ -145,6 +145,9 @@ def main():
         def fix(entry):
             key = norm(entry[1])
             for cand in pool.get(key, [])[:4]:
+                cand = cand.split(";")[0].strip()
+                if not cand.startswith("http") or " " in cand:
+                    continue
                 if cand != entry[2] and alive(cand):
                     return cand
             return None
@@ -163,11 +166,15 @@ def main():
             if idx < len(base_entries):
                 src = base_entries[idx][2]
                 if src and i + 1 < len(base_lines):
-                    base_lines[i + 1] = src
+                    base_lines[i + 1] = src.split(";")[0].strip() if ";" in src else src
             idx += 1
 
+    groups = {}
+    for e in base_entries:
+        groups[e[0]] = groups.get(e[0], 0) + 1
     open(a.out, "w", encoding="utf-8", newline="").write(nl.join(base_lines))
     print("输出 %s：%d 条，换源 %d 条" % (a.out, len(base_entries), replaced), flush=True)
+    print("分组: " + " / ".join("%s=%d" % (k, v) for k, v in groups.items()), flush=True)
 
 
 if __name__ == "__main__":
