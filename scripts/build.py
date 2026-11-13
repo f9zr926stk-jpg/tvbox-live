@@ -175,6 +175,23 @@ def norm(name):
     return n.upper()
 
 
+def akey(name):
+    """换源用的宽松键：CCTV1综合 / CCTV-1 / CCTV1 视为同一台。"""
+    n = norm(name)
+    m = re.match(r"CCTV[-—]?(\d+)(\+)?(.*)", n)
+    if m:
+        num, plus, rest = m.group(1), m.group(2) or "", m.group(3) or ""
+        if "美洲" in rest:
+            return "CCTV%s美洲" % num
+        if "欧洲" in rest:
+            return "CCTV%s欧洲" % num
+        if rest.startswith("K"):
+            return "CCTV%sK" % num
+        return "CCTV%s%s" % (num, plus)
+    n = re.sub(r"[-—–]", "", n)
+    return n
+
+
 def clean_url(u):
     u = u.split(";")[0].split("#")[0].strip()
     return u
@@ -199,7 +216,7 @@ def main():
     pool = {}
     for e in base_entries:
         if e[2]:
-            pool.setdefault(norm(e[1]), []).append(clean_url(e[2]))
+            pool.setdefault(akey(e[1]), []).append(clean_url(e[2]))
 
     texts = []
     if a.local_upstreams:
@@ -216,7 +233,7 @@ def main():
     for t in texts:
         for g, name, url in parse_m3u(t):
             if url:
-                pool.setdefault(norm(name), []).append(clean_url(url))
+                pool.setdefault(akey(name), []).append(clean_url(url))
     print("候选台名 %d 个" % len(pool), flush=True)
 
     only = set(a.only.split(",")) if a.only else None
@@ -247,7 +264,7 @@ def main():
     replaced = 0
 
     def fix(entry):
-        key = norm(entry[1])
+        key = akey(entry[1])
         tried = 0
         # 央视：咪咕编号线路优先（实测稳定，ysp 转播常被央视 CDN 403）
         mapped = CCTV_MAP.get(entry[1].strip())
