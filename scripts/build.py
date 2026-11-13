@@ -157,7 +157,7 @@ def main():
         def fix(entry):
             key = norm(entry[1])
             for cand in pool.get(key, [])[:4]:
-                cand = cand.split(";")[0].strip()
+                cand = cand.split(";")[0].split("#")[0].strip()
                 if not cand.startswith("http") or " " in cand:
                     continue
                 if cand != entry[2] and alive(cand):
@@ -193,6 +193,8 @@ def main():
             url = entry[2] if entry else base_lines[i + 1]
             if url and ";" in url:
                 url = url.split(";")[0].strip()
+            if url and "#http" in url:
+                url = url.split("#")[0].strip()
             if keep:
                 out.append(url or base_lines[i + 1])
             i += 2
