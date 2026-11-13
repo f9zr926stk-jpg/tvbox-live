@@ -60,6 +60,19 @@ curl.exe -s -o NUL -w "%{http_code} %{size_download}`n" "https://g.blfrp.cn/http
 
 > 点播配置（`api`）不用托管：`https://8815.kstore.vip/tvbox/wmz` 本身就是线上接口，提供方更新后你自动生效。
 
+## 已部署信息（本仓库）
+
+- 仓库：`https://github.com/f9zr926stk-jpg/tvbox-live`
+- 产物分支：`live`，文件 `live.m3u`（每次只有一个提交，仓库体积恒定）
+- 电视 `liveApi` 实际填写：
+
+```
+https://g.blfrp.cn/https://raw.githubusercontent.com/f9zr926stk-jpg/tvbox-live/live/live.m3u
+```
+
+- 自动更新时间：每天北京时间 06:10（UTC 22:10）
+- 首次运行耗时：约 7 分钟（40 并发、单条超时 7 秒）；2382 条里判失效后换源 64 条左右
+
 ## 日常怎么维护
 
 - **什么都不用做**：每天北京时间 06:10 自动体检 + 换源
