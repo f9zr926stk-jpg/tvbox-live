@@ -3641,6 +3641,26 @@ http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="龙井" group-title="地方卫视",龙井
 http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-name="东方卫视4K" group-title="地方卫视",东方卫视4K
+https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 tvg-name="万州三峡移民" group-title="地方卫视",万州三峡移民
+http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
+#EXTINF:-1 tvg-name="嵊州新闻综合" group-title="地方卫视",嵊州新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
+#EXTINF:-1 tvg-name="常熟民生" group-title="地方卫视",常熟民生
+http://3gvod.zjgonline.com.cn:1935/live/_definst_/shehuishenghuo_app/chunklist.m3u8
+#EXTINF:-1 tvg-name="开化国家公园" group-title="地方卫视",开化国家公园
+http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed
+#EXTINF:-1 tvg-name="武进新闻" group-title="地方卫视",武进新闻
+https://live.wjyanghu.com/live/CH1.m3u8
+#EXTINF:-1 tvg-name="武进生活" group-title="地方卫视",武进生活
+http://live.wjyanghu.com/live/CH2.m3u8
+#EXTINF:-1 tvg-name="滦平新闻" group-title="地方卫视",滦平新闻
+http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="营山电视台" group-title="地方卫视",营山电视台
+http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
+#EXTINF:-1 tvg-name="伊犁经济法制" group-title="地方卫视",伊犁经济法制
+http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
 #EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-cache/0ff306c9835858c53f2c.webp?v=1794236583950&from=source" group-title="文旅",环球旅游
 https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/958475356
 #EXTINF:-1 tvg-id="CGTN Documentary" tvg-name="CGTN Documentary" tvg-logo="https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/logo-pack/CGTN%20Documentary.png?v=b67dd218f3" group-title="文旅",CGTN Documentary
