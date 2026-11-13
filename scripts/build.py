@@ -19,10 +19,13 @@ import urllib.request
 from urllib.parse import urljoin
 
 UA = "okhttp/3.12.0"
-# 换源候选清单：先这两家（实测可播最多），再原来的上游
+# 换源候选清单：多家自动更新源叠加，一路挂了别的顶上
 DEFAULT_UPSTREAMS = [
     "https://live.hacks.tools/tv/iptv4.m3u",
     "https://raw.githubusercontent.com/kilvn/iptv/master/iptv.m3u",
+    "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/gxyd.m3u",
+    "https://raw.githubusercontent.com/YueChan/Live/main/GNTV.m3u",
+    "https://live.zbds.top/tv/iptv4.m3u",
     "https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/m3u",
     "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u",
 ]
