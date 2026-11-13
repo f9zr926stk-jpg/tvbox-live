@@ -20,8 +20,8 @@ DEFAULT_UPSTREAMS = [
     "https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/m3u",
     "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u",
 ]
-TIMEOUT = 12
-WORKERS = 16
+TIMEOUT = 7
+WORKERS = 40
 
 
 def fetch(url, limit=900_000):
@@ -122,8 +122,22 @@ def main():
                 pool.setdefault(norm(name), []).append(url)
     print("上游台名 %d 个" % len(pool), flush=True)
 
-    dead = [e for e in base_entries if e[2] and not alive(e[2])] if not a.no_probe else []
-    if a.no_probe:
+    def probe(entry):
+        return alive(entry[2])
+
+    dead = []
+    if not a.no_probe:
+        total = len(base_entries)
+        done = 0
+        with concurrent.futures.ThreadPoolExecutor(max_workers=WORKERS) as ex:
+            futs = {ex.submit(probe, e): e for e in base_entries if e[2]}
+            for f in concurrent.futures.as_completed(futs):
+                done += 1
+                if not f.result():
+                    dead.append(futs[f])
+                if done % 200 == 0 or done == len(futs):
+                    print("体检进度 %d/%d，已判失效 %d" % (done, len(futs), len(dead)), flush=True)
+    else:
         print("--no-probe：跳过体检，只做结构检查", flush=True)
 
     replaced = 0
