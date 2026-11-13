@@ -19,7 +19,10 @@ import urllib.request
 from urllib.parse import urljoin
 
 UA = "okhttp/3.12.0"
+# 换源候选清单：先这两家（实测可播最多），再原来的上游
 DEFAULT_UPSTREAMS = [
+    "https://live.hacks.tools/tv/iptv4.m3u",
+    "https://raw.githubusercontent.com/kilvn/iptv/master/iptv.m3u",
     "https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/m3u",
     "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u",
 ]
@@ -256,6 +259,8 @@ def main():
             cand = clean_url(cand)
             if not cand.startswith("http") or " " in cand or cand == entry[2]:
                 continue
+            if cand.split("://", 1)[-1].startswith("["):
+                continue  # IPv6 直连，电视用不了
             if any(f in cand for f in FLAKY):
                 continue
             tried += 1
