@@ -31,6 +31,10 @@ DEFAULT_UPSTREAMS = [
     "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
     "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
     "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+    "https://raw.githubusercontent.com/xiweiwong/hk-iptv-auto/main/hk_live.m3u",
+    "https://iptv-org.github.io/iptv/countries/tw.m3u",
+    "https://iptv-org.github.io/iptv/countries/hk.m3u",
+    "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u",
 ]
 TIMEOUT = 9
 WORKERS = 40
