@@ -29,6 +29,8 @@ DEFAULT_UPSTREAMS = [
     "https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/m3u",
     "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u",
     "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+    "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+    "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
 ]
 TIMEOUT = 9
 WORKERS = 40
