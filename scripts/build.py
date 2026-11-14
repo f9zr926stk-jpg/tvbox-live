@@ -35,6 +35,9 @@ DEFAULT_UPSTREAMS = [
     "https://iptv-org.github.io/iptv/countries/tw.m3u",
     "https://iptv-org.github.io/iptv/countries/hk.m3u",
     "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u",
+    "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8",
+    "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/TaiWan.m3u8",
+    "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/HongKong.m3u8",
 ]
 TIMEOUT = 9
 WORKERS = 40
