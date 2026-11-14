@@ -28,6 +28,7 @@ DEFAULT_UPSTREAMS = [
     "https://live.zbds.top/tv/iptv4.m3u",
     "https://tvm3u.zdgxy888.top/u/EgQ-amsMEhRXY3Z5KX42y2qK/m3u",
     "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u",
+    "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
 ]
 TIMEOUT = 9
 WORKERS = 40
